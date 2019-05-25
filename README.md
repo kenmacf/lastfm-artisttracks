@@ -1,2 +1,2 @@
-# lastfm-artisttracks
-workaround for deprecated Last.FM API user.getArtistTracks
+# lastfm-revive
+workaround for deprecated Last.FM API methods
